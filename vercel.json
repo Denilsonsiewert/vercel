@@ -1,8 +1,5 @@
 {
   "routes": [
-    {
-      "src": "/dias.png",
-      "dest": "/api/dias.js"
-    }
+    { "src": "/dias.png", "dest": "/api/dias.js" }
   ]
 }
